@@ -1,0 +1,1 @@
+NOTE: The whole list of the project can only be saved in local storage based on your browser, if you used a different browser to saved your list the list it contained will reset to zero.
