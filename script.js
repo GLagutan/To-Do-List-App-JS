@@ -30,7 +30,7 @@ listContainer.addEventListener("click", function(e){
 
 //function savaData() is used to save the data in local storage
 function saveData(){
-    localStorage.setItem("data", listContainer.innerHTML)
+    localStorage.setItem("data", listContainer.innerHTML) 
 }
 
 // showTask() is used to display the saved data from local storage
